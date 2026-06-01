@@ -59,7 +59,7 @@ The thread that ties most of my work together: write it from the math up, test e
 
 ## Writing
 
-I write about the things that break when you build from scratch — autograd internals, how data flows to edge devices, and the latency-vs-accuracy reality of on-device inference.
+First-principles essays on AI, intelligence, power, and work — taking apart how each actually works. Recent posts: does AI actually think (energy-based reasoning vs. next-token prediction), and why AI is unlike any tool we've built before.
 
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pushkalgupta) [![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@pushkalgupta)
 
@@ -72,7 +72,7 @@ University Topper (Rank 1) all three years at VIT Vellore, CGPA 9.91 / 10.
 <!-- Snake animation: needs the GitHub Action in .github/workflows/snake.yml (provided). Run it once from the Actions tab to create the "output" branch. -->
 [![Snake](https://raw.githubusercontent.com/Pushkal-Gupta/Pushkal-Gupta/output/snake.svg)](https://github.com/Pushkal-Gupta)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Pushkal-Gupta&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight)](https://github.com/Pushkal-Gupta) [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pushkal-Gupta&hide_border=true&theme=tokyonight)](https://github.com/Pushkal-Gupta)
+[![Streak](https://streak-stats.demolab.com/?user=Pushkal-Gupta&hide_border=true&theme=tokyonight)](https://github.com/Pushkal-Gupta)
 
 ## Connect
 
