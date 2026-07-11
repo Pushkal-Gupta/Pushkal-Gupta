@@ -47,7 +47,7 @@ The thread that ties most of my work together: write it from the math up, test e
 
 ## Web
 
-- **[PG Hub](https://pushkalgupta.com)** — [[repo](https://github.com/Pushkal-Gupta/WebDev)] My personal web platform (React / Vite / Supabase, with auth), a growing home for things I build. It currently hosts **PGcode**, a NeetCode-style DSA platform with a Monaco editor, Judge0 execution, and a 22-topic DAG roadmap, and **PG.Chess**, multiplayer chess with Stockfish 18 WASM, Glicko-2 ratings, and real-time sync.
+- **[PG Suite](https://pushkalgupta.com)** — [[repo](https://github.com/Pushkal-Gupta/WebDev)]  My personal web platform (React / Vite / Supabase), the home for everything I build on the web. Its centerpiece is PGHub, a DSA-and-CS learning platform: a 4,500+ problem catalog with a Monaco editor, server-side Judge0 grading, and a topic-DAG roadmap, alongside ~620 concept lessons across ~76 modules plus an ML/AI track (PGForge) and LeetCode contest analytics. It also hosts PG.Chess (multiplayer, Stockfish 18 WASM, Glicko-2, real-time sync), PG.Play (3D browser games), and PG Blog.
 
 ## Experience
 
