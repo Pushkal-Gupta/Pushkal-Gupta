@@ -1,10 +1,10 @@
 # Pushkal Gupta
 
-**India** &nbsp;·&nbsp; **Edge AI & on-device intelligence** &nbsp;·&nbsp; **Firmware × ML**
+**India** &nbsp;·&nbsp; **Edge AI & on-device intelligence** &nbsp;·&nbsp; **Firmware × ML** &nbsp;·&nbsp; **Platform & Observability**
 
 **Languages**
 &nbsp;
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#) [![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#) [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](#) [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](#) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#) [![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#) [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)](#) [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](#) [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](#) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
 
 **ML &amp; Data**
 &nbsp;
@@ -13,6 +13,10 @@
 **Embedded &amp; Edge**
 &nbsp;
 [![Zephyr RTOS](https://img.shields.io/badge/-Zephyr_RTOS-7929D2?style=flat-square&logo=zephyrproject&logoColor=white)](#) [![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-008000?style=flat-square&logo=freertos&logoColor=white)](#) [![Nordic nRF](https://img.shields.io/badge/-Nordic_nRF-00A9CE?style=flat-square&logoColor=white)](#) [![Memfault](https://img.shields.io/badge/-Memfault-5C45FF?style=flat-square&logoColor=white)](#) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+
+**Platform, Cloud &amp; Web**
+&nbsp;
+[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#) [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](#) [![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](#) [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](#) [![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)](#) [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#) [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](#) [![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](#)
 
 **Tools**
 &nbsp;
@@ -25,13 +29,14 @@
 - **Understanding by building** — autograd engines, neural nets, and classical vision operators written from first principles. If I can't derive it, I don't trust the abstraction.
 - **On-device ML** — the path that actually matters: train, compress, deploy, benchmark on hardware. Latency and memory measured on real silicon, not just on a laptop.
 - **Sensor-flavoured systems** — noisy time-series, industrial sensor data, edge–fog–cloud architectures where a millisecond decision happens locally.
+- **Platforms that watch and repair themselves** — end-to-end observability (distributed tracing, dependency-graph telemetry) and self-healing CI/CD that remediates security issues and babysits its own PRs. Same instinct as the rest: understand the system well enough that it can act on itself.
 
 ## Built from scratch
 
 The thread that ties most of my work together: write it from the math up, test every piece, then look at what it actually does.
 
 - **[micrograd](https://github.com/Pushkal-Gupta/micrograd)** — A scalar-level autograd engine. Each node holds one value and the op that made it; the backward pass walks the DAG in reverse applying the chain rule. Built across basics → intermediate → advanced notebooks, with the gradient-accumulation failure mode for reused nodes made explicit.
-- **[NumPy-only Neural Net](https://github.com/Pushkal-Gupta/Numpy-only-Neural-Net)** — A feedforward net in pure NumPy, no autograd framework. Three notebooks in sequence: a heavily-annotated MNIST digit classifier (every matrix shape and gradient derived by hand), a deeper Fashion-MNIST net with mini-batch SGD, and a dynamic-depth MLP for letter recognition with He init and per-epoch shuffling. Picks up where micrograd leaves off: scalar autodiff → vectorized matrices.
+- **[NumPy-only Neural Net](https://github.com/Pushkal-Gupta/Numpy-only-Neural-Net)** — A feedforward net in pure NumPy, no autograd framework. Notebooks in sequence: a heavily-annotated MNIST digit classifier (every matrix shape and gradient derived by hand), a deeper Fashion-MNIST net with mini-batch SGD, a dynamic-depth MLP for letter recognition with He init and per-epoch shuffling, and a transfer-learning finale — a 7-layer MIT-BIH arrhythmia network (96.55%) frozen as a feature extractor to detect myocardial infarction on unseen PTB ECG. Picks up where micrograd leaves off: scalar autodiff → vectorized matrices.
 - **[ImageLab](https://github.com/Pushkal-Gupta/Julia)** *(Julia)* — Classical computer vision, built operator by operator: naive convolution → six padding modes → separable filters → first/second-order edges → Canny from scratch → Harris corners, Hough lines, connected components, NCC → Gaussian/Laplacian pyramids → anisotropic diffusion → multi-band blending → convolution as Toeplitz/circulant matrices → a Whitted-style ray tracer → differentiable filters via ForwardDiff → Lucas-Kanade and Horn-Schunck optical flow (both pyramidal) → colour spaces and Di Zenzo gradients. **1530 passing tests.**
 
 ## Applied ML & data
@@ -51,6 +56,12 @@ The thread that ties most of my work together: write it from the math up, test e
 
 ## Experience
 
+**Optum (UnitedHealth Group)** — Technology Development Program Intern
+
+- Built end-to-end observability for a .NET platform — structured logging and W3C distributed tracing with a dependency-graph event model and ServiceNow alerting, surfaced through a React dashboard and Terraform-provisioned Azure Application Insights workbooks (KQL).
+- Engineered a self-healing CI/CD pipeline: a closed-loop GitHub Actions system that autonomously remediates security vulnerabilities and then babysits the resulting PRs — AI build-tool detection, agentic remediation (Claude on AWS Bedrock), transcript summarization, and Datadog/DynamoDB telemetry, with recency-gating, capped fan-out, and OIDC guardrails.
+- Hardened production across UI, API, and Azure infrastructure — role-based access control, resilient routing, environment-first secure config, and CI/CD retry/fallback with startup guardrails.
+
 **Ultrahuman** — Firmware & AI/ML Developer
 
 - Designed a step-counting algorithm on accelerometer data hitting ~95% accuracy, and built a TensorFlow Lite walk vs. non-walk classifier to cut false positives in low-movement contexts.
@@ -65,7 +76,7 @@ First-principles essays on AI, intelligence, power, and work — taking apart ho
 
 ## Recognition
 
-University Topper (Rank 1) all three years at VIT Vellore, CGPA 9.91 / 10.
+University Topper (Rank 1) all three years at VIT Vellore, CGPA 9.93 / 10.
 
 ## Activity
 
