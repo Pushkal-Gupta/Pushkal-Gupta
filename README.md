@@ -1,96 +1,77 @@
 # Pushkal Gupta
 
-**India** &nbsp;·&nbsp; **Edge AI & on-device intelligence** &nbsp;·&nbsp; **Firmware × ML** &nbsp;·&nbsp; **Platform & Observability**
+**Edge AI & on-device intelligence** &nbsp;·&nbsp; **Firmware × ML** &nbsp;·&nbsp; **Platform & Observability**
 
-**Languages**
-&nbsp;
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#) [![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#) [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)](#) [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](#) [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](#) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
+> I build machine learning that runs on real hardware — from the autograd math up to the sensor on the device.
+> Write the naive version from scratch, prove it with tests, look at the output, _then_ reach for the library.
 
-**ML &amp; Data**
-&nbsp;
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](#) [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)](#) [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](#) [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#) [![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](#) [![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](#) [![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](#) [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](#)
+B.Tech CS (IoT) @ VIT Vellore · CGPA 9.93/10 · University Rank 1, all three years.
 
-**Embedded &amp; Edge**
-&nbsp;
-[![Zephyr RTOS](https://img.shields.io/badge/-Zephyr_RTOS-7929D2?style=flat-square&logo=zephyrproject&logoColor=white)](#) [![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-008000?style=flat-square&logo=freertos&logoColor=white)](#) [![Nordic nRF](https://img.shields.io/badge/-Nordic_nRF-00A9CE?style=flat-square&logoColor=white)](#) [![Memfault](https://img.shields.io/badge/-Memfault-5C45FF?style=flat-square&logoColor=white)](#) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+## Stack
 
-**Platform, Cloud &amp; Web**
-&nbsp;
-[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#) [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](#) [![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](#) [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](#) [![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)](#) [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#) [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](#) [![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#) [![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#) [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)](#) [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](#) [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](#) [![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
 
-**Tools**
-&nbsp;
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](#) [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](#) [![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](#) [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](#) [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](#) [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](#) [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](#) [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](#) [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)](#) [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](#) [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#) [![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](#) [![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](#)
 
-> I build machine learning that runs on real hardware — from the autograd math up to the sensor on the device. B.Tech CS (IoT) @ VIT Vellore. I like to write the naive version from scratch, prove it with tests, look at the output, then reach for the library.
+[![Zephyr RTOS](https://img.shields.io/badge/-Zephyr_RTOS-7929D2?style=flat-square&logo=zephyrproject&logoColor=white)](#) [![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-008000?style=flat-square&logo=freertos&logoColor=white)](#) [![Nordic nRF](https://img.shields.io/badge/-Nordic_nRF-00A9CE?style=flat-square&logoColor=white)](#) [![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)](#) [![TF Lite](https://img.shields.io/badge/-TFLite_Micro-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](#) [![Memfault](https://img.shields.io/badge/-Memfault-5C45FF?style=flat-square&logoColor=white)](#)
 
-## What I'm doing
+[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#) [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](#) [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](#) [![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](#) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#) [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](#) [![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)](#) [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#) [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](#) [![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](#) [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](#) [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 
-- **Understanding by building** — autograd engines, neural nets, and classical vision operators written from first principles. If I can't derive it, I don't trust the abstraction.
-- **On-device ML** — the path that actually matters: train, compress, deploy, benchmark on hardware. Latency and memory measured on real silicon, not just on a laptop.
-- **Sensor-flavoured systems** — noisy time-series, industrial sensor data, edge–fog–cloud architectures where a millisecond decision happens locally.
-- **Platforms that watch and repair themselves** — end-to-end observability (distributed tracing, dependency-graph telemetry) and self-healing CI/CD that remediates security issues and babysits its own PRs. Same instinct as the rest: understand the system well enough that it can act on itself.
+## Projects
 
-## Built from scratch
+**From scratch**
 
-The thread that ties most of my work together: write it from the math up, test every piece, then look at what it actually does.
+- **[micrograd](https://github.com/Pushkal-Gupta/micrograd)** — a scalar autograd engine; the chain rule walked backwards over a DAG, node by node.
+- **[NumPy-only Neural Net](https://github.com/Pushkal-Gupta/Numpy-only-Neural-Net)** — feedforward nets in pure NumPy, no framework. Ends on a frozen MIT-BIH arrhythmia net (96.55%) transfer-learned to detect MI on unseen PTB ECG.
+- **[ImageLab](https://github.com/Pushkal-Gupta/Julia)** _(Julia)_ — classical computer vision built operator by operator: convolution → Canny → Harris → pyramids → ray tracer → optical flow. **1530 passing tests.**
 
-- **[micrograd](https://github.com/Pushkal-Gupta/micrograd)** — A scalar-level autograd engine. Each node holds one value and the op that made it; the backward pass walks the DAG in reverse applying the chain rule. Built across basics → intermediate → advanced notebooks, with the gradient-accumulation failure mode for reused nodes made explicit.
-- **[NumPy-only Neural Net](https://github.com/Pushkal-Gupta/Numpy-only-Neural-Net)** — A feedforward net in pure NumPy, no autograd framework. Notebooks in sequence: a heavily-annotated MNIST digit classifier (every matrix shape and gradient derived by hand), a deeper Fashion-MNIST net with mini-batch SGD, a dynamic-depth MLP for letter recognition with He init and per-epoch shuffling, and a transfer-learning finale — a 7-layer MIT-BIH arrhythmia network (96.55%) frozen as a feature extractor to detect myocardial infarction on unseen PTB ECG. Picks up where micrograd leaves off: scalar autodiff → vectorized matrices.
-- **[ImageLab](https://github.com/Pushkal-Gupta/Julia)** *(Julia)* — Classical computer vision, built operator by operator: naive convolution → six padding modes → separable filters → first/second-order edges → Canny from scratch → Harris corners, Hough lines, connected components, NCC → Gaussian/Laplacian pyramids → anisotropic diffusion → multi-band blending → convolution as Toeplitz/circulant matrices → a Whitted-style ray tracer → differentiable filters via ForwardDiff → Lucas-Kanade and Horn-Schunck optical flow (both pyramidal) → colour spaces and Di Zenzo gradients. **1530 passing tests.**
+**Edge, IoT & research**
 
-## Applied ML & data
+- **[EnergyMem](https://github.com/Pushkal-Gupta/EnergyMem-An-Energy-Based-Associative-Memory-Architecture-for-Autonomous-Agents)** — agent long-term memory as convergence in a learned energy landscape, with top-k retrieval shown to be one corner of it.
+- **[Sensor Drift & Data Poisoning](https://github.com/Pushkal-Gupta/Sensor-Drift-and-Data-Poisoning-in-IoT-Sensor-Networks)** — physics-informed fog-layer root-cause disambiguation: benign drift or adversarial injection, and a different response to each.
+- **[IMU Assistance-Dog Alert](https://github.com/Pushkal-Gupta/IMU-Based-Assistance-Dog-Alert-Verification-and-Emergency-Escalation-System)** — a collar that verifies a seizure-alert dog's signal and escalates to a caregiver when the owner can't respond.
+- **[Fog-Based Vehicle Monitoring](https://github.com/Pushkal-Gupta/Fog-Based-Vehicle-Monitoring)** — edge–fog–cloud vehicle health; millisecond safety decisions stay local, the cloud gets the analytics.
+- **[Graph-Based Location Privacy](https://github.com/Pushkal-Gupta/Graph-based_Location-Privacy-IoT)** — five privacy-preserving algorithms on GeoLife GPS traces, priced in privacy–utility trade-offs.
 
-- **[Semiconductor Yield Prediction & Defect Analysis](https://github.com/Pushkal-Gupta/Semiconductor-Data-Analysis)** — Two questions on real fab data. *Will a wafer fail final test?* — UCI SECOM, 590 in-line sensor signals reduced to 271 clean features, then LogReg / gradient boosting / MLP compared with SHAP, SMOTE, and threshold tuning. *What defect pattern is on the wafer map?* — Kaggle WM-811K, a small class-weighted CNN that nails the visually distinct defects (Edge-Ring F1 0.97) and struggles on the same ambiguous ones (Loc, Scratch) a human would.
-- **[Vehicle Telematics Analysis](https://github.com/Pushkal-Gupta/Hackathon/tree/main/MotorQ_DS)** *(MotorQ DS Hackathon 2025)* — An ingestion pipeline unifying four heterogeneous telematics sources (telemetry, triggers, mapping, synthetic) with 78–87% missing fields. Timestamps normalized across IST/UTC clock drift, odometer sensor-fault outliers (15% of readings) stripped via IQR, ignition events extracted by state-transition logic with source-priority conflict resolution (SYN > TRG > TLM), and charging sessions detected with Savitzky-Golay smoothing and battery-delta thresholds.
-- **[AI Web Scraper](https://github.com/Pushkal-Gupta/Web-Scraper-AI)** — Prompt-driven extraction instead of fragile selectors. Selenium + BeautifulSoup pull page context; a locally-hosted Llama 3.1 (via Ollama, orchestrated with LangChain) interprets it into clean structured tables from a natural-language query.
+**Applied ML & web**
 
-## Edge, IoT & systems
+- **[Semiconductor Yield & Defect Analysis](https://github.com/Pushkal-Gupta/Semiconductor-Data-Analysis)** — will this wafer fail final test (SECOM), and what pattern is on the map (WM-811K CNN).
+- **[Vehicle Telematics Pipeline](https://github.com/Pushkal-Gupta/Hackathon/tree/main/MotorQ_DS)** — four heterogeneous telematics sources, 78–87% missing fields, unified into clean ignition and charging sessions.
+- **[AI Web Scraper](https://github.com/Pushkal-Gupta/Web-Scraper-AI)** — prompt-driven extraction instead of brittle selectors; local Llama 3.1 via Ollama + LangChain.
+- **[PG Suite](https://pushkalgupta.com)** — [[repo](https://github.com/Pushkal-Gupta/WebDev)] my web platform: PGHub (4,500+ DSA problems, Judge0 grading, ~620 lessons), PG.Chess (Stockfish 18 WASM, Glicko-2), PG.Play, and the blog.
 
-- **[Fog-Based Vehicle Monitoring](https://github.com/Pushkal-Gupta/Fog-Based-Vehicle-Monitoring)** — A three-tier edge–fog–cloud architecture for real-time vehicle health. Millisecond safety decisions run locally; the cloud is reserved for non-critical analytics. Compact health-vectors (RMS, FFT spectral features, rate-of-change) cut telemetry volume while preserving signal for fleet-level RUL estimation.
-- **[Graph-Based Location Privacy for IoT](https://github.com/Pushkal-Gupta/Graph-based_Location-Privacy-IoT)** — An object-oriented framework comparing five privacy-preserving algorithms on Microsoft's GeoLife GPS trajectory dataset, quantifying privacy–utility trade-offs on real-world IoT location streams.
+## Open source
 
-## Web
-
-- **[PG Suite](https://pushkalgupta.com)** — [[repo](https://github.com/Pushkal-Gupta/WebDev)]  My personal web platform (React / Vite / Supabase), the home for everything I build on the web. Its centerpiece is PGHub, a DSA-and-CS learning platform: a 4,500+ problem catalog with a Monaco editor, server-side Judge0 grading, and a topic-DAG roadmap, alongside ~620 concept lessons across ~76 modules plus an ML/AI track (PGForge) and LeetCode contest analytics. It also hosts PG.Chess (multiplayer, Stockfish 18 WASM, Glicko-2, real-time sync), PG.Play (3D browser games), and PG Blog.
+[![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://github.com/n8n-io/n8n/commits?author=Pushkal-Gupta) — editor i18n, PagerDuty node pagination, MCP registry tag normalization.
 
 ## Experience
 
-**Optum (UnitedHealth Group)** — Technology Development Program Intern
+**Optum (UnitedHealth Group)** — Technology Development Program Intern. Observability for a .NET platform (distributed tracing, Azure/Terraform, Datadog) and a self-healing CI/CD pipeline that remediates security vulnerabilities on its own.
 
-- Built end-to-end observability for a .NET platform — structured logging and W3C distributed tracing with a dependency-graph event model and ServiceNow alerting, surfaced through a React dashboard and Terraform-provisioned Azure Application Insights workbooks (KQL).
-- Engineered a self-healing CI/CD pipeline: a closed-loop GitHub Actions system that autonomously remediates security vulnerabilities and then babysits the resulting PRs — AI build-tool detection, agentic remediation (Claude on AWS Bedrock), transcript summarization, and Datadog/DynamoDB telemetry, with recency-gating, capped fan-out, and OIDC guardrails.
-- Hardened production across UI, API, and Azure infrastructure — role-based access control, resilient routing, environment-first secure config, and CI/CD retry/fallback with startup guardrails.
-
-**Ultrahuman** — Firmware & AI/ML Developer
-
-- Designed a step-counting algorithm on accelerometer data hitting ~95% accuracy, and built a TensorFlow Lite walk vs. non-walk classifier to cut false positives in low-movement contexts.
-- Integrated the algorithms into Zephyr RTOS firmware (12 Hz / 100 Hz sampling), resolved zero-step bugs, and led Base-1 testing to ≤10% step deviation against an Apple Watch Ultra.
-- Shipped to production wearables via secure OTA updates, working across Science and Firmware teams.
+**Ultrahuman** — Firmware & AI/ML. Step-counting on accelerometer data (~95%) and a TFLite walk classifier, shipped to production wearables over OTA on Zephyr RTOS.
 
 ## Writing
 
-First-principles essays on AI, intelligence, power, and work — taking apart how each actually works. Recent posts: does AI actually think (energy-based reasoning vs. next-token prediction), and why AI is unlike any tool we've built before.
+First-principles essays on AI, intelligence, power, and work.
 
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pushkalgupta) [![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@pushkalgupta)
 
-## Recognition
+## Stats
 
-University Topper (Rank 1) all three years at VIT Vellore, CGPA 9.93 / 10.
-
-## Activity
-
-<!-- Snake animation: needs the GitHub Action in .github/workflows/snake.yml (provided). Run it once from the Actions tab to create the "output" branch. -->
-[![Snake](https://raw.githubusercontent.com/Pushkal-Gupta/Pushkal-Gupta/output/snake.svg)](https://github.com/Pushkal-Gupta)
-
+[![Stats](https://github-readme-stats.vercel.app/api?username=Pushkal-Gupta&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/Pushkal-Gupta)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkal-Gupta&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)](https://github.com/Pushkal-Gupta)
 [![Streak](https://streak-stats.demolab.com/?user=Pushkal-Gupta&hide_border=true&theme=tokyonight)](https://github.com/Pushkal-Gupta)
+
+<!-- Snake animation: needs .github/workflows/snake.yml to have run once (creates the "output" branch). -->
+
+[![Snake](https://raw.githubusercontent.com/Pushkal-Gupta/Pushkal-Gupta/output/snake.svg)](https://github.com/Pushkal-Gupta)
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkal-gupta) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pushkal-Gupta/) [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/pushkalg) [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pushkalgupta) [![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@pushkalgupta) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pushkalgupta2005@gmail.com) [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://pushkalgupta.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pushkal-Gupta)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkal-gupta/) [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/PushkalGupta_) [![Email](https://img.shields.io/badge/-pushkalgupta2005@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pushkalgupta2005@gmail.com) [![Website](https://img.shields.io/badge/-pushkalgupta.com-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://pushkalgupta.com) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pushkal-Gupta/) [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/pushkalg) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pushkal-Gupta)
 
 ---
 
-*Understanding systems from first principles. Building to understand.*
+_Understanding systems from first principles. Building to understand._
 
-*Carpe Noctem.*
+_Carpe Noctem._
