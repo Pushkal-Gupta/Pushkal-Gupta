@@ -1,5 +1,7 @@
 # Pushkal Gupta
 
+[![Profile views](https://komarev.com/ghpvc/?username=Pushkal-Gupta&label=Profile%20views&color=1F6FEB&style=flat-square)](https://github.com/Pushkal-Gupta)
+
 **Edge AI & on-device intelligence** &nbsp;·&nbsp; **Firmware × ML** &nbsp;·&nbsp; **Agentic systems & Observability**
 
 > I build things from scratch to understand them — autograd from the chain rule up, vision operator by operator,
