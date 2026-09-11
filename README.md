@@ -43,7 +43,7 @@
 - **[Graph-Based Location Privacy](https://github.com/Pushkal-Gupta/Graph-based_Location-Privacy-IoT)** — five privacy algorithms on GeoLife GPS traces.
 - **[Semiconductor Yield & Defect](https://github.com/Pushkal-Gupta/Semiconductor-Data-Analysis)** — SECOM failure prediction, WM-811K defect-map CNN.
 - **[AI Web Scraper](https://github.com/Pushkal-Gupta/Web-Scraper-AI)** — prompt-driven extraction on a local Llama 3.1.
-- **[PG Suite](https://pushkalgupta.com)** — [[repo](https://github.com/Pushkal-Gupta/WebDev)] PGHub (4,500+ DSA problems), PG.Chess, PG.Play, blog.
+- **[PG Suite](https://pushkalgupta.com)** — PGHub (4,500+ DSA problems), PG.Chess, PG.Play, blog.
 
 ## Writing
 
