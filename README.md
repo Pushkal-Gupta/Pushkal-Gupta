@@ -1,11 +1,13 @@
 # Pushkal Gupta
 
-[![Profile views](https://komarev.com/ghpvc/?username=Pushkal-Gupta&label=Profile%20views&color=1F6FEB&style=flat-square)](https://github.com/Pushkal-Gupta)
-
 **Edge AI & on-device intelligence** &nbsp;·&nbsp; **Firmware × ML** &nbsp;·&nbsp; **Agentic systems & Observability**
 
 > I build things from scratch to understand them — autograd from the chain rule up, vision operator by operator,
 > ML that runs on real silicon. Write the naive version, prove it with tests, _then_ reach for the library.
+
+[![PGHub](https://img.shields.io/badge/PGHub-0F9B8E?style=for-the-badge&logoColor=white)](https://thepghub.com/) [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logoColor=white)](https://portfolio.pushkalgupta.com/) [![Blog](https://img.shields.io/badge/Blog-EA580C?style=for-the-badge&logoColor=white)](https://blog.pushkalgupta.com/) [![Website](https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logoColor=white)](https://www.pushkalgupta.com/)
+
+[![Profile views](https://komarev.com/ghpvc/?username=Pushkal-Gupta&label=Profile%20views&color=1F6FEB&style=flat-square)](https://github.com/Pushkal-Gupta)
 
 ## Stack
 
@@ -62,7 +64,7 @@ First-principles essays on AI, intelligence, power, and work.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkal-gupta/) [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/PushkalGupta_) [![Website](https://img.shields.io/badge/-pushkalgupta.com-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://pushkalgupta.com) [![Email](https://img.shields.io/badge/-pushkalgupta2005@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pushkalgupta2005@gmail.com) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pushkal-Gupta/) [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/pushkalg)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkal-gupta/) [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/PushkalGupta_) [![Email](https://img.shields.io/badge/-pushkalgupta2005@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pushkalgupta2005@gmail.com) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pushkal-Gupta/) [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/pushkalg)
 
 ---
 
