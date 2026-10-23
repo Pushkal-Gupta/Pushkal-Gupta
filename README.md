@@ -2,7 +2,7 @@
 
 **Edge AI & on-device intelligence** &nbsp;·&nbsp; **Firmware × ML** &nbsp;·&nbsp; **Agentic systems & Observability**
 
-> I build things from scratch to understand them — autograd from the chain rule up, vision operator by operator,
+> I build things from scratch to understand them - autograd from the chain rule up, vision operator by operator,
 > ML that runs on real silicon. Write the naive version, prove it with tests, _then_ reach for the library.
 
 [![PGHub](https://img.shields.io/badge/PGHub-0F9B8E?style=for-the-badge&logoColor=white)](https://thepghub.com/) [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logoColor=white)](https://portfolio.pushkalgupta.com/) [![Blog](https://img.shields.io/badge/Blog-EA580C?style=for-the-badge&logoColor=white)](https://blog.pushkalgupta.com/) [![Website](https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logoColor=white)](https://www.pushkalgupta.com/)
@@ -23,37 +23,37 @@
 
 ## Experience
 
-**Optum (UnitedHealth Group)** — Technology Development Program Intern
+**Optum (UnitedHealth Group)** - Technology Development Program Intern
 
-- Built an agentic pipeline that patches security vulnerabilities and CI failures unattended, then proves each fix against a baseline in a sandbox before it is allowed to merge — orchestrated on Azure Durable Functions, Service Bus, and Cosmos DB.
-- Delivered end-to-end observability for a .NET platform — distributed tracing, KQL workbooks provisioned in Terraform, and a React dashboard for API health, errors, and dependency flow.
+- Built an agentic pipeline that patches security vulnerabilities and CI failures unattended, then proves each fix against a baseline in a sandbox before it is allowed to merge - orchestrated on Azure Durable Functions, Service Bus, and Cosmos DB.
+- Delivered end-to-end observability for a .NET platform - distributed tracing, KQL workbooks provisioned in Terraform, and a React dashboard for API health, errors, and dependency flow.
 
-**Ultrahuman** — Firmware & AI/ML Developer
+**Ultrahuman** - Firmware & AI/ML Developer
 
 - Step-counting on raw accelerometer data (~95%) and a TFLite walk vs. non-walk classifier to kill false positives.
 - Integrated into Zephyr RTOS firmware and shipped to production wearables over OTA.
 
 ## Open Source
 
-Fixes merged into software other people run every day — shipped upstream, not forked.
+Fixes merged into software other people run every day - shipped upstream, not forked.
 
-- **[Apache Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3APushkal-Gupta+is%3Amerged)** — the orchestrator behind much of the world's data infrastructure. Hardened the public REST API against input that used to slip through, and brought its reference docs back in line with what the service actually returns, so teams building against it stop debugging failures that were never documented. Merged upstream, riding the next release.
-- **[lichess](https://github.com/lichess-org/lila/pulls?q=is%3Apr+author%3APushkal-Gupta+is%3Amerged)** — free chess for millions of players. Corrected how the board resolves Chess960 and Atomic edge cases, and made the editor, keyboard entry, and coordinate settings behave the way players already expect them to. **Live on lichess.org.**
-- **[n8n](https://github.com/n8n-io/n8n/pulls?q=is%3Apr+author%3APushkal-Gupta+is%3Amerged)** — workflow automation for teams that would rather not write the glue. Fixed a paging bug that handed back the same records over and over while putting the rest out of reach, and closed gaps where the editor fell back to English for everyone else. **Shipped in `n8n@2.37.0` and `n8n@2.45.0`.**
+- **[Apache Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3APushkal-Gupta+is%3Amerged)** - the orchestrator behind much of the world's data infrastructure. Hardened the public REST API against input that used to slip through, brought the permission reference back in line with the endpoints that actually exist, and cleared sort options out of the web UI that had never worked in the first place, so the teams running it stop debugging behaviour that was never documented. **Shipped in `apache-airflow-providers-fab 3.10.2rc1`**, with a fix for labels rendering as raw translation keys approved and a task-instance paging fix in review.
+- **[lichess](https://github.com/lichess-org/lila/pulls?q=is%3Apr+author%3APushkal-Gupta+is%3Amerged)** - free chess for millions of players. Corrected how the board resolves Chess960 and Atomic edge cases, and made the editor, keyboard entry, and coordinate settings behave the way players already expect them to. **Live on lichess.org.**
+- **[n8n](https://github.com/n8n-io/n8n/pulls?q=is%3Apr+author%3APushkal-Gupta+is%3Amerged)** - workflow automation for teams that would rather not write the glue. Fixed a paging bug that handed back the same records over and over while putting the rest out of reach, and closed gaps where the editor fell back to English for everyone else. **Shipped in `n8n@2.37.0` and `n8n@2.45.0`.**
 
 ## Projects
 
-- **[micrograd](https://github.com/Pushkal-Gupta/micrograd)** — scalar autograd engine built from scratch; the chain rule walked backwards over a DAG.
-- **[NumPy-only Neural Net](https://github.com/Pushkal-Gupta/Numpy-only-Neural-Net)** — nets in pure NumPy, hand-derived gradients, no framework; ends on ECG transfer learning.
-- **[ImageLab](https://github.com/Pushkal-Gupta/Julia)** *(Julia)* — classical computer vision from scratch, operator by operator. 1530 tests.
-- **[EnergyMem](https://github.com/Pushkal-Gupta/EnergyMem-An-Energy-Based-Associative-Memory-Architecture-for-Autonomous-Agents)** — agent memory as convergence in a learned energy landscape.
-- **[Sensor Drift & Data Poisoning](https://github.com/Pushkal-Gupta/Sensor-Drift-and-Data-Poisoning-in-IoT-Sensor-Networks)** — fog layer telling benign drift from adversarial injection.
-- **[IMU Assistance-Dog Alert](https://github.com/Pushkal-Gupta/IMU-Based-Assistance-Dog-Alert-Verification-and-Emergency-Escalation-System)** — collar that verifies a seizure-alert and escalates it.
-- **[Fog-Based Vehicle Monitoring](https://github.com/Pushkal-Gupta/Fog-Based-Vehicle-Monitoring)** — edge–fog–cloud health; millisecond decisions stay local.
-- **[Graph-Based Location Privacy](https://github.com/Pushkal-Gupta/Graph-based_Location-Privacy-IoT)** — five privacy algorithms on GeoLife GPS traces.
-- **[Semiconductor Yield & Defect](https://github.com/Pushkal-Gupta/Semiconductor-Data-Analysis)** — SECOM failure prediction, WM-811K defect-map CNN.
-- **[AI Web Scraper](https://github.com/Pushkal-Gupta/Web-Scraper-AI)** — prompt-driven extraction on a local Llama 3.1.
-- **[PG Suite](https://pushkalgupta.com)** — PGHub (4,500+ DSA problems), PG.Chess, PG.Play, blog.
+- **[micrograd](https://github.com/Pushkal-Gupta/micrograd)** - scalar autograd engine built from scratch; the chain rule walked backwards over a DAG.
+- **[NumPy-only Neural Net](https://github.com/Pushkal-Gupta/Numpy-only-Neural-Net)** - nets in pure NumPy, hand-derived gradients, no framework; ends on ECG transfer learning.
+- **[ImageLab](https://github.com/Pushkal-Gupta/Julia)** *(Julia)* - classical computer vision from scratch, operator by operator. 1530 tests.
+- **[EnergyMem](https://github.com/Pushkal-Gupta/EnergyMem-An-Energy-Based-Associative-Memory-Architecture-for-Autonomous-Agents)** - agent memory as convergence in a learned energy landscape.
+- **[Sensor Drift & Data Poisoning](https://github.com/Pushkal-Gupta/Sensor-Drift-and-Data-Poisoning-in-IoT-Sensor-Networks)** - fog layer telling benign drift from adversarial injection.
+- **[IMU Assistance-Dog Alert](https://github.com/Pushkal-Gupta/IMU-Based-Assistance-Dog-Alert-Verification-and-Emergency-Escalation-System)** - collar that verifies a seizure-alert and escalates it.
+- **[Fog-Based Vehicle Monitoring](https://github.com/Pushkal-Gupta/Fog-Based-Vehicle-Monitoring)** - edge-fog-cloud health; millisecond decisions stay local.
+- **[Graph-Based Location Privacy](https://github.com/Pushkal-Gupta/Graph-based_Location-Privacy-IoT)** - five privacy algorithms on GeoLife GPS traces.
+- **[Semiconductor Yield & Defect](https://github.com/Pushkal-Gupta/Semiconductor-Data-Analysis)** - SECOM failure prediction, WM-811K defect-map CNN.
+- **[AI Web Scraper](https://github.com/Pushkal-Gupta/Web-Scraper-AI)** - prompt-driven extraction on a local Llama 3.1.
+- **[PG Suite](https://pushkalgupta.com)** - PGHub (4,500+ DSA problems), PG.Chess, PG.Play, blog.
 
 ## Writing
 
