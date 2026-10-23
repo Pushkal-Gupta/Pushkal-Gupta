@@ -33,6 +33,14 @@
 - Step-counting on raw accelerometer data (~95%) and a TFLite walk vs. non-walk classifier to kill false positives.
 - Integrated into Zephyr RTOS firmware and shipped to production wearables over OTA.
 
+## Open Source
+
+Fixes merged into software other people run every day — shipped upstream, not forked.
+
+- **[Apache Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3APushkal-Gupta+is%3Amerged)** — the orchestrator behind much of the world's data infrastructure. Hardened the public REST API against input that used to slip through, and brought its reference docs back in line with what the service actually returns, so teams building against it stop debugging failures that were never documented. Merged upstream, riding the next release.
+- **[lichess](https://github.com/lichess-org/lila/pulls?q=is%3Apr+author%3APushkal-Gupta+is%3Amerged)** — free chess for millions of players. Corrected how the board resolves Chess960 and Atomic edge cases, and made the editor, keyboard entry, and coordinate settings behave the way players already expect them to. **Live on lichess.org.**
+- **[n8n](https://github.com/n8n-io/n8n/pulls?q=is%3Apr+author%3APushkal-Gupta+is%3Amerged)** — workflow automation for teams that would rather not write the glue. Stopped a paging bug that silently dropped records mid-sync, and closed gaps where the editor fell back to English for everyone else. **Shipped in `n8n@2.37.0` and `n8n@2.45.0`.**
+
 ## Projects
 
 - **[micrograd](https://github.com/Pushkal-Gupta/micrograd)** — scalar autograd engine built from scratch; the chain rule walked backwards over a DAG.
